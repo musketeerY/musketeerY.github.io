@@ -1,0 +1,12 @@
+body {
+  font-family: 'Mark Pro', monospace;
+}
+
+a {
+  display: block;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
