@@ -1,0 +1,366 @@
+{
+  "tools": [
+    {
+      "name": "ADB-Toolkit",
+      "source": "https://github.com/ASHWIN990/ADB-Toolkit",
+      "description": "Wrapper around adb to ease certain tasks",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Atheris",
+      "source": "https://github.com/google/atheris",
+      "description": "Coverage-guided Python fuzzing engine",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "keywords": "fuzzer, CPython, libFuzzer, native code"
+    },
+    {
+      "name": "Avast Hack Check",
+      "website": "https://www.avast.com/hackcheck",
+      "description": "Service to check if an account has been compromised in a data breach, send an email with the breaches not the password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "BreachAlarm",
+      "website": "https://breachalarm.com/",
+      "description": "Service to check if an account has been compromised in a data breach, only tells if the account is compromised",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "BreachDirectory",
+      "website": "https://breachdirectory.org/",
+      "description": "Service to check if an account has been compromised in a data breach, display the breaches, partial password and hash",
+      "price": "Free",
+      "online": "True",
+      "keywords": "api, leak"
+    },
+    {
+      "name": "ctf-party",
+      "website": "https://noraj.github.io/ctf-party",
+      "source": "https://github.com/noraj/ctf-party",
+      "description": "Library to enhance and speed up script/exploit writing for CTF players",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "encoding, decoding, hashing",
+      "blackarch": "ruby-ctf-party"
+    },
+    {
+      "name": "CyberChef",
+      "website": "https://gchq.github.io/CyberChef/",
+      "source": "https://github.com/gchq/CyberChef",
+      "description": "Data manipulation toolkit in web browser",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "cybernews personal data leak check",
+      "website": "https://cybernews.com/personal-data-leak-check/",
+      "description": "Service to check if an account has been compromised in a data breach, only tells if the account is compromised",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "DeHashed",
+      "website": "https://dehashed.com/",
+      "description": "Service to check if an account has been compromised in a data breach",
+      "price": "Paid",
+      "online": "True",
+      "keywords": "api, leak"
+    },
+    {
+      "name": "discover",
+      "source": "https://github.com/leebaird/discover",
+      "description": "Scripts used to automate various penetration testing tasks including recon, scanning, parsing, and creating malicious payloads and listeners with Metasploit",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Firefox Monitor",
+      "website": "https://monitor.firefox.com/",
+      "description": "Service to check if an account has been compromised in a data breach, display the breaches not the password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "F-Secure Identity Theft Checker",
+      "website": "https://www.f-secure.com/en/home/free-tools/identity-theft-checker",
+      "description": "Service to check if an account has been compromised in a data breach, send an email with the breaches not the password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "Godehashed",
+      "source": "https://github.com/an00byss/godehashed",
+      "description": "Uses the dehashed.com API to search for compromised assets",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "gtfo",
+      "source": "https://github.com/mzfr/gtfo",
+      "description": "CLI for searching gtfobins and lolbas from the terminal",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "gtfo"
+    },
+    {
+      "name": "GTFOBLookup",
+      "source": "https://github.com/nccgroup/GTFOBLookup",
+      "description": "CLI for earching gtfobins and lolbas from the terminal; allows more advanced search than gtfo",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "gtfoblookup"
+    },
+    {
+      "name": "HackTools",
+      "source": "https://github.com/LasCC/Hack-Tools",
+      "description": "Web browser extension (Chromium, Firefox, Safari) including common functions for web pentest",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Have I been pwned?",
+      "website": "https://haveibeenpwned.com/",
+      "description": "Service to check if an account has been compromised in a data breach, display the breaches not the password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "api, leak"
+    },
+    {
+      "name": "hideNsneak",
+      "source": "https://github.com/rmikehodges/hideNsneak",
+      "description": "CLI tool for ephemeral penetration testing, rapidly deploy and manage various cloud services",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "inlite",
+      "website": "https://online-barcode-reader.inliteresearch.com/",
+      "description": "Scan QR-code, 1D, DataMatrix, Postal, PDF417, and more",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Interlace",
+      "source": "https://github.com/codingo/Interlace",
+      "description": "Turn single threaded command line applications into a multi-threaded application with CIDR and glob support",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "itdis",
+      "website": "https://noraj.gitlab.io/itdis/",
+      "source": "https://gitlab.com/noraj/itdis",
+      "description": "Is This Domain In Scope; a small tool that allows you to check if a list of domains you have been provided is in the scope of your pentest or not",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Leak Lookup",
+      "website": "https://leak-lookup.com/",
+      "description": "Service to check if an account has been compromised in a data breach, requires an account",
+      "price": "Free",
+      "online": "True",
+      "keywords": "api, leak"
+    },
+    {
+      "name": "Metasploit",
+      "website": "https://www.metasploit.com/",
+      "source": "https://github.com/rapid7/metasploit-framework",
+      "description": "Tool and framework for pentesting system, web and many more, contains a lot a ready to use exploit, 4 versions: Pro (paid), Express (paid), Community (free with GUI but on request), Framework (free, open source, CLI)",
+      "language": "Ruby",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "NameScan Email Compromised Check",
+      "website": "https://namescan.io/FreeEmailCompromisedCheck.aspx",
+      "description": "Service to check if an account has been compromised in a data breach, display the breaches not the password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "objection",
+      "source": "https://github.com/sensepost/objection",
+      "description": "Runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "OpenVAS",
+      "website": "http://www.openvas.org/",
+      "source": "https://github.com/greenbone/openvas",
+      "description": "Open Vulnerability Assessment Scanner",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Pass Station",
+      "website": "https://sec-it.github.io/pass-station/",
+      "source": "https://github.com/sec-it/pass-station",
+      "description": "CLI & library to search for default credentials among thousands of Products / Vendors",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PentestBox",
+      "website": "https://pentestbox.org/",
+      "source": "https://github.com/pentestbox",
+      "description": "Pre-configured portable penetration testing environment for Windows, all-in-one box",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name":"Pipal",
+      "website":"https://digi.ninja/projects/pipal.php",
+      "source":"https://github.com/digininja/pipal",
+      "description":"Analyze password dump and return statistics about passwords' strengh",
+      "language": "Ruby",
+      "price":"Free",
+      "online":"False",
+      "blackarch": "pipal"
+    },
+    {
+      "name": "pwndb",
+      "website": "http://pwndb2am4tzkvold.onion/",
+      "description": "Service to check if an account has been compromised in a data breach, display the full password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "api, tor, onion, leak"
+    },
+    {
+      "name": "PWDQUERY",
+      "website": "https://pwdquery.xyz/",
+      "description": "Service to check if an account has been compromised in a data breach, doesn't display breaches, partially display password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "rawsec_cli",
+      "website": "https://rawsec-cli.readthedocs.io/en/latest/",
+      "source": "https://github.com/mBouamama/rawsec_cli",
+      "description": "Rawsec Inventory search CLI to find security tools and resources",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "rawsec-cli"
+    },
+    {
+      "name": "Reverse Shell Generator",
+      "website": "https://www.revshells.com/",
+      "source": "https://github.com/0dayCTF/reverse-shell-generator",
+      "description": "Web-based reverse shell generator, includes features such as listener generation, raw mode, bind shell generation, msfvenom generation, payload encoding, many different languages, tools and shells supported",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Ronin",
+      "website": "https://ronin-ruby.github.io/",
+      "source": "https://github.com/ronin-ruby/ronin",
+      "description": "Platform for vulnerability research and exploit development, it allows for the rapid development and distribution of code, Exploits or Payloads, Scanners, etc, via Repositories",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Scrounger",
+      "source": "https://github.com/nettitude/scrounger",
+      "description": "Mobile application testing toolkit, the mobile metasploit-like framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Seccubus",
+      "website": "https://www.seccubus.com/",
+      "source": "https://github.com/seccubus/seccubus",
+      "description": "Vulnerability scanning, reporting and analysis",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+   {
+      "name": "SprayingToolkit",
+      "source": "https://github.com/byt3bl33d3r/SprayingToolkit",
+      "description": "Password spraying scripts for Lync/S4B and OWA",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Tool-X",
+      "source": "https://github.com/Rajkumrdusad/Tool-X",
+      "description": "Kali linux hacking tool installer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "UK Data Breaches",
+      "website": "https://www.breaches.uk/",
+      "description": "Service to check if an account has been compromised in a data breach, display the breaches not password",
+      "price": "Free",
+      "online": "True",
+      "keywords": "leak"
+    },
+    {
+      "name": "v0lt",
+      "source": "https://github.com/P1kachu/v0lt",
+      "description": "CTF toolkit / framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "VBSmin",
+      "website": "https://noraj.github.io/vbsmin/",
+      "source": "https://github.com/noraj/vbsmin",
+      "description": "VBScript minifier",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "keywords": "VBS"
+    },
+    {
+      "name": "webqr",
+      "website": "https://webqr.com/index.html",
+      "description": "Scan & create QR-code",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "ysoserial",
+      "source": "https://github.com/frohoff/ysoserial",
+      "description": "Tool for generating payloads that exploit unsafe Java object deserialization",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

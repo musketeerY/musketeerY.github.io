@@ -1,0 +1,22 @@
+mixin resources_agencies(item)
+    tr(id=item.name)
+        td.has-text-weight-bold
+            a(class="anchor has-text-dark" href="#"+item.name)= item.name
+        if item.country
+            td= item.country
+        else
+            td
+        if item.website
+            td
+                a(href=item.website class='website-link') [Website]
+        else
+            td
+        if item.source
+            td
+                a(href=item.source class='source-link') [Source]
+        else
+            td
+        if item.description
+            td= item.description
+        else
+            td

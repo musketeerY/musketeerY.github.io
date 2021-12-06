@@ -1,0 +1,700 @@
+{
+  "tools": [
+    {
+      "name": "Amass",
+      "website": "https://www.owasp.org/index.php/OWASP_Amass_Project",
+      "source": "https://github.com/OWASP/Amass/",
+      "description": "DNS enumeration and network mapping tool suite: scraping, recursive brute forcing, crawling web archives, reverse DNS sweeping",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Asnlookup",
+      "source": "https://github.com/yassineaboukir/Asnlookup",
+      "description": "Leverage ASN to look up IP addresses (IPv4 & IPv6) owned by a specific organization for reconnaissance purposes, then run port scanning on it",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "AttackSurfaceMapper",
+      "source": "https://github.com/superhedgy/AttackSurfaceMapper",
+      "description": "Subdomain enumerator",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "reconnaissance",
+      "blackarch": "attacksurfacemapper"
+    },
+    {
+      "name": "AutoRecon",
+      "source": "https://github.com/Tib3rius/AutoRecon",
+      "description": "Multi-threaded network reconnaissance tool which performs automated enumeration of services",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "badKarma",
+      "source": "https://github.com/r3vn/badKarma",
+      "description": "Advanced network reconnaissance tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Belati",
+      "source": "https://github.com/aancw/Belati",
+      "description": "OSINT tool, collect data and document actively or passively",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Certstream",
+      "website": "https://certstream.calidog.io/",
+      "source": "https://github.com/CaliDog/certstream-server",
+      "description": "Intelligence feed that gives real-time updates from the Certificate Transparency Log network",
+      "language": "Elixir",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Darkshot",
+      "source": "https://github.com/mxrch/darkshot",
+      "description": "Lightshot scraper with multi-threaded OCR and auto categorizing screenshots",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "dataleaks",
+      "source": "https://github.com/jeisonbeast/dataleaks",
+      "description": "Self-hosted data breach search engine",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False",
+      "keywords": "leaks"
+    },
+    {
+      "name": "datasploit",
+      "website": "https://datasploit.github.io/datasploit/",
+      "source": "https://github.com/DataSploit/datasploit",
+      "description": "OSINT framework, find, aggregate and export data",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "DeadTrap",
+      "website": "https://chr0m0s0m3s.github.io/DeadTrapv2/",
+      "source": "https://github.com/Chr0m0s0m3s/DeadTrapv2",
+      "description": "Track down footprints of a phone number",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "dnsenum",
+      "source": "https://github.com/fwaeytens/dnsenum",
+      "description": "DNS reconnaissance tool: AXFR, DNS records enumeration, subdomain bruteforce, range reverse lookup",
+      "language": "Perl",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "dnsenum2",
+      "source": "https://github.com/SparrowOchon/dnsenum2",
+      "description": "Continuation of dnsenum project",
+      "language": "Perl",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "DNSRecon",
+      "source": "https://github.com/darkoperator/dnsrecon",
+      "description": "DNS reconnaissance tool: AXFR, DNS records enumeration, TLD expansion, wildcard resolution, subdomain bruteforce, PTR record lookup, check for cached records",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "dnsx",
+      "source": "https://github.com/projectdiscovery/dnsx",
+      "description": "Multi-purpose DNS toolkit allow to run multiple DNS queries",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "dnsx"
+    },
+    {
+      "name": "EagleEye",
+      "source": "https://github.com/ThoughtfulDev/EagleEye",
+      "description": "OSINT tool, image recognition on instagram, facebook and twitter",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "eTools.ch",
+      "website": "https://www.etools.ch/",
+      "description": "Metasearch engine, query 16 search engines in parallel",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Facebook_OSINT_Dump",
+      "source": "https://github.com/TheCyberViking/Facebook_OSINT_Dump",
+      "description": "OSINT tool, facebook profile dumper, windows and chrome only",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "FinalRecon",
+      "source": "https://github.com/thewhiteh4t/FinalRecon",
+      "description": "Web reconnaissance script",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Findomain",
+      "source": "https://github.com/Edu4rdSHL/findomain",
+      "description": "Fast subdomain enumerator",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "FOCA",
+      "website": "https://www.elevenpaths.com/labstools/foca/index.html",
+      "source": "https://github.com/ElevenPaths/FOCA",
+      "description": "OSINT framework and metadata analyser",
+      "language": "Csharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GHunt",
+      "source": "https://github.com/mxrch/GHunt",
+      "description": "Investigate Google accounts with emails and find name, usernames, Youtube Channel, probable location, Maps reviews, etc.",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "gitGraber",
+      "source": "https://github.com/hisxo/gitGraber",
+      "description": "Monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe, etc.",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Gorecon",
+      "source": "https://github.com/devanshbatham/Gorecon",
+      "description": "Reconnaissance toolkit",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GoSeek",
+      "source": "https://github.com/audioo/goseek",
+      "description": "Username lookup comparable to Maigret/Sherlock, IP Lookup, License Plate & VIN Lookup, Info Cull, and Fake Identity Generator",
+      "programming_language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "gOSINT",
+      "source": "https://github.com/Nhoya/gOSINT",
+      "description": "OSINT framework; find mails, dumps, retrieve Telegram history and info about hosts",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "h8mail",
+      "source": "https://github.com/khast3x/h8mail",
+      "description": "Email OSINT & Password breach hunting tool; supports chasing down related email",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "email, breach, password",
+      "blackarch": "h8mail"
+    },
+    {
+      "name": "Harpoon",
+      "source": "https://github.com/Te-k/harpoon",
+      "description": "CLI tool; collect data and document actively or passively",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "holehe",
+      "source": "https://github.com/megadose/holehe",
+      "description": "Check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "IVRE",
+      "website": "https://ivre.rocks/",
+      "source": "https://github.com/cea-sec/ivre",
+      "description": "IVRE (Instrument de veille sur les réseaux extérieurs) or DRUNK (Dynamic Recon of UNKnown networks); network recon framework including tools ofr passive and active recon",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "kitphishr",
+      "source": "https://github.com/cybercdh/kitphishr",
+      "description": "Hunts for phishing kit source code by traversing URL folders and searching in open directories for zip files; supports list of URLs or PhishTank",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Kostebek",
+      "source": "https://github.com/esecuritylab/kostebek",
+      "description": "Tool to find firms domains by searching their trademark information",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "LeakDB",
+      "source": "https://github.com/moloch--/leakdb",
+      "description": "Normalize, deduplicate, index, sort, and search leaked data sets on the multi-terabyte-scale",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+        {
+      "name": "LeakIX",
+      "source": "https://leakix.net/",
+      "description": "Search engine for devices and services exposed on the Internet",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "LeakLooker",
+      "source": "https://github.com/woj-ciech/LeakLooker-X",
+      "description": "Discover, browse and monitor database/source code leaks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "leakScraper",
+      "source": "https://github.com/Acceis/leakScraper",
+      "description": "Set of tools to process and visualize huge text files containing credentials",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "LinEnum",
+      "source": "https://github.com/rebootuser/LinEnum",
+      "description": "System script for local Linux enumeration and privilege escalation checks",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "LittleBrother",
+      "source": "https://github.com/lulz3xploit/littlebrother",
+      "description": "Information gathering (OSINT) on a person (EU), checks social networks and Pages Jaunes",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "littlebrother"
+    },
+    {
+      "name": "Maigret",
+      "source": "https://github.com/soxoj/maigret",
+      "description": "Collect a dossier on a person by username from a huge number of sites, and extract details from them",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "MassDNS",
+      "source": "https://github.com/blechschmidt/massdns",
+      "description": "High-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Metabigor",
+      "source": "https://github.com/j3ssie/metabigor",
+      "description": "OSINT tool that doesn't require any API key",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "metabigor"
+    },
+    {
+      "name": "Netflip",
+      "source": "https://github.com/maraudery/netflip",
+      "description": "Scrape sensitive information from paste sites",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "NExfil",
+      "source": "https://github.com/thewhiteh4t/nexfil",
+      "description": "Finding profiles by username over 350 websites",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "nexfil"
+    },
+    {
+      "name": "Nmmapper",
+      "website": "https://www.nmmapper.com/",
+      "description": "Cybersecurity tools offered as SaaS: nmap, subdomain finder (Sublist3r, DNScan, Anubis, Amass, Lepus, Findomain, Censys), theHarvester, etc.",
+      "price": "Paid",
+      "online": "True"
+    },
+    {
+      "name": "nqntnqnqmb",
+      "source": "https://github.com/megadose/nqntnqnqmb",
+      "description": "Retrieve information on linkedin profiles, companies on linkedin and search on linkedin companies/persons",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Oblivion",
+      "source": "https://github.com/loseys/Oblivion",
+      "description": "Data leak checker and monitoring",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ODIN",
+      "source": "https://github.com/chrismaddalena/ODIN",
+      "description": "Observe, Detect, and Investigate Networks, Automated reconnaissance tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Omnibus",
+      "source": "https://github.com/InQuest/omnibus",
+      "description": "OSINT framework; collection of tools",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "omnibus"
+    },
+    {
+      "name": "OneForAll",
+      "source": "https://github.com/shmilylty/OneForAll/blob/master/docs/en-us/README.md",
+      "description": "Subdomain enumeration tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "OnionSearch",
+      "source": "https://github.com/megadose/OnionSearch",
+      "description": "Script that scrapes urls on different .onion search engines",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "onionsearch"
+    },
+    {
+      "name": "OSINT Framework",
+      "website": "http://osintframework.com/",
+      "source": "https://github.com/lockfale/OSINT-Framework",
+      "description": "A web-based collection of tools and resources for OSINT",
+      "language": "Javascript",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Osintgram",
+      "source": "https://github.com/Datalux/Osintgram",
+      "description": "Interactive shell to perform analysis on Instagram account of any users by their nickname",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Osmedeus",
+      "website": "https://j3ssie.github.io/Osmedeus/",
+      "source": "https://github.com/j3ssie/Osmedeus",
+      "description": "Automated framework for reconnaissance and vulnerability scanning",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Photon",
+      "source": "https://github.com/s0md3v/Photon",
+      "description": "Fast crawler designed for OSINT",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "photon"
+    },
+    {
+      "name": "PITT",
+      "source": "https://github.com/TheCyberViking/PublicIntelligenceTool",
+      "description": "Web browser loaded with links and extensions for doing OSINT",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ProjectDiscovery",
+      "website": "https://projectdiscovery.io/",
+      "source": "https://github.com/projectdiscovery",
+      "description": "Monitor, collect and continuously query the assets data via a simple webUI",
+      "language": "Go",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Qualear",
+      "source": "https://github.com/maraudery/qualear",
+      "description": "Reconnaissance Apparatus; Information gathering, conglomerate of tools including custom algorithms, API wrappers",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ReconDog",
+      "source": "https://github.com/s0md3v/ReconDog",
+      "description": "Multi-purpose reconnaissance tool, CMS detection, reverse IP lookup, port scan, etc.",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Recon-ng",
+      "source": "https://bitbucket.org/LaNMaSteR53/recon-ng/",
+      "description": "Web-based reconnaissance tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Reconnoitre",
+      "source": "https://github.com/codingo/Reconnoitre",
+      "description": "Tool made to automate information gathering and service enumeration while storing results",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "reconnoitre"
+    },
+    {
+      "name": "ReconScan",
+      "source": "https://github.com/RoliSoft/ReconScan",
+      "description": "Network reconnaissance and vulnerability assessment tools",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "reconscan"
+    },
+    {
+      "name": "Recsech",
+      "source": "https://github.com/radenvodka/Recsech",
+      "description": "Web reconnaissance and vulnerability scanner tool",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "recsech"
+    },
+    {
+      "name": "Red Team Arsenal",
+      "source": "https://github.com/flipkart-incubator/RTA",
+      "description": "Automated reconnaissance scanner and security checks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "reNgine",
+      "website": "https://yogeshojha.github.io/rengine/",
+      "source": "https://github.com/yogeshojha/rengine",
+      "description": "Automated recon framework for web applications; customizable scan engines & pipeline of reconnaissance",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sandmap",
+      "website": "https://github.com/trimstray/sandmap/wiki",
+      "source": "https://github.com/trimstray/sandmap",
+      "description": "Network and system reconnaissance scanner using Nmap",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SearchDNS",
+      "website": "https://searchdns.netcraft.com/",
+      "description": "Netcraft tool; Search and find information for domains and subdomains",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Sherlock",
+      "website": "https://sherlock-project.github.io",
+      "source": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+        {
+      "name": "Shodan",
+      "website": "https://www.shodan.io/",
+      "description": "Search devices connected to the internet; helps find information about desktops, servers, IoT devices; including metadata such as the software running",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "shosubgo",
+      "source": "https://github.com/incogbyte/shosubgo",
+      "description": "Grab subdomains using Shodan api",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "shuffledns",
+      "source": "https://github.com/projectdiscovery/shuffledns",
+      "description": "Wrapper around massdns that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SiteBroker",
+      "source": "https://github.com/Anon-Exploiter/SiteBroker",
+      "description": "Tool for information gathering and penetration test automation",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sn1per",
+      "source": "https://github.com/1N3/Sn1per",
+      "description": "Automated reconnaissance scanner",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "spiderfoot",
+      "website": "http://www.spiderfoot.net/",
+      "source": "https://github.com/smicallef/spiderfoot",
+      "description": "OSINT framework, collect and manage data, scan target",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Stalker",
+      "source": "https://gitlab.com/Pxmme/stalker",
+      "description": "Automated scanning of social networks and other websites, using a single nickname",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SubDomainizer",
+      "source": "https://github.com/nsonaniya2010/SubDomainizer",
+      "description": "Find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "subfinder",
+      "website": "https://projectdiscovery.io/open-source",
+      "source": "https://github.com/projectdiscovery/subfinder",
+      "description": "Discovers valid subdomains for websites, designed as a passive framework to be useful for bug bounties and safe for penetration testing",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sublist3r",
+      "source": "https://github.com/aboul3la/Sublist3r",
+      "description": "Subdomains enumeration tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sudomy",
+      "source": "https://github.com/Screetsec/Sudomy",
+      "description": "Subdomain enumeration tool ",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Th3inspector",
+      "source": "https://github.com/Moham3dRiahi/Th3inspector",
+      "description": "Multi-purpose information gathering tool",
+      "language": "Perl",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "theHarvester",
+      "source": "https://github.com/laramies/theHarvester",
+      "description": "Multi-purpose information gathering tool: emails, names, subdomains, IPs, URLs",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "tinfoleak",
+      "source": "https://github.com/vaguileradiaz/tinfoleak",
+      "description": "Twitter intelligence analysis tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Totem",
+      "source": "https://github.com/megadose/facebook_totem",
+      "description": "Retrieve information about ads of a facebook page, retrieve the number of people targeted, how much the ad cost and a lot of other information",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "trape",
+      "source": "https://github.com/jofpin/trape",
+      "description": "Analysis and research tool, which allows people to track and execute intelligent social engineering attacks in real time",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "TWINT",
+      "source": "https://github.com/twintproject/twint",
+      "description": "Twitter Intelligence Tool; Twitter scraping & OSINT tool that doesn't use Twitter's API, allowing one to scrape a user's followers, following, Tweets and more while evading most API limitations",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "twint"
+    }
+  ]
+}

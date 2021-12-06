@@ -1,0 +1,403 @@
+{
+  "resources": [
+    {
+      "name": "ae27ff",
+      "website": "http://ae27ff.meme.tips/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Backdoor",
+      "website": "https://backdoor.sdslabs.co/",
+      "description": "Practice area with some past CTF challenges",
+      "price": "Free"
+    },
+    {
+      "name": "Begin.re",
+      "website": "https://www.begin.re/",
+      "description": "Binary reverse guided challenges for beginners",
+      "price": "Free"
+    },
+    {
+      "name": "BugBountyHunter",
+      "website": "https://www.bugbountyhunter.com/",
+      "description": "Learn how to test for security vulnerabilities on web applications with our various real-life web applications; security researcher tutorials, guides, writeups",
+      "price": "Paid"
+    },
+    {
+      "name": "CanYouHack.It",
+      "website": "http://canyouhack.it/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Challenge Land",
+      "website": "http://challengeland.co/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Cryptopals",
+      "website": "https://cryptopals.com/",
+      "description": "Crypto challenges platform",
+      "price": "Free"
+    },
+    {
+      "name": "CTFLearn",
+      "website": "https://ctflearn.com/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "CyberDefenders",
+      "website": "https://cyberdefenders.org/labs/",
+      "description": "Training platform focused on the defensive side of cybersecurity, aiming to provide a place for blue teams to practice",
+      "price": "Free"
+    },
+    {
+      "name": "Electrica",
+      "website": "http://www.caesum.com/game",
+      "description": "Programming, cryptography challenges",
+      "price": "Free"
+    },
+    {
+      "name": "EnigmaGroup",
+      "website": "http://www.enigmagroup.org/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Exploit Education",
+      "website": "http://exploit.education/",
+      "description": "Exercises and resources about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues",
+      "price": "Free"
+    },
+    {
+      "name": "Exploit Exercises",
+      "website": "https://exploit-exercises.com/",
+      "description": "VMs, documentation and challenges",
+      "price": "Free"
+    },
+    {
+      "name": "FreeHackQuest",
+      "website": "https://freehackquest.com/",
+      "source": "https://github.com/freehackquest/fhq-server",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Gekkó",
+      "website": "http://gekko.csokavar.hu/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Graker",
+      "website": "http://gracker.org/",
+      "description": "Binary challenges having a slow learning curve, and write-ups for each level (SSH connection)",
+      "price": "Free"
+    },
+    {
+      "name": "Hack The Box",
+      "website": "https://www.hackthebox.eu/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Hack This Site",
+      "website": "https://www.hackthissite.org/",
+      "description": "Challenge platform and community",
+      "price": "Free"
+    },
+    {
+      "name": "HackBBS",
+      "website": "http://hackbbs.org/",
+      "description": "Challenge platform and community",
+      "price": "Free"
+    },
+    {
+      "name": "HackCenter",
+      "website": "https://hackcenter.com/",
+      "description": "Private challenge platforms",
+      "price": "Free"
+    },
+    {
+      "name": "Hacker Gateway",
+      "website": "https://www.hackergateway.com/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Hacker.org",
+      "website": "http://www.hacker.org/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Hacking Lab",
+      "website": "https://www.hacking-lab.com/",
+      "description": "Challenge platform with teachers and solutions",
+      "price": "Free"
+    },
+    {
+      "name": "HackThis!!",
+      "website": "https://www.hackthis.co.uk/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+   {
+      "name": "ImmersiveLabs",
+      "website": "https://www.immersivelabs.com/",
+      "description": "Story-driven exercises and practical, gamified labs",
+      "price": "Paid"
+    },
+    {
+      "name": "IO",
+      "website": "http://io.netgarage.org/",
+      "description": "Binary challenges (SSH connection)",
+      "price": "Free"
+    },
+    {
+      "name": "LOST-Chall",
+      "website": "http://www.lost-chall.org/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Mod-X",
+      "website": "http://www.mod-x.co.uk/",
+      "description": "Challenge platforms through a fictional game",
+      "price": "Free"
+    },
+    {
+      "name": "Net-Force",
+      "website": "http://www.net-force.nl/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "NCP",
+      "website": "https://nice-challenge.com/",
+      "description": "NICE Challenge Project by the NIST and the NSA (for American students only)",
+      "price": "Free"
+    },
+    {
+      "name": "Over The Wire",
+      "website": "http://overthewire.org/wargames/",
+      "source": "https://github.com/OverTheWireOrg/OverTheWire-website",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "OWASP Juice Shop",
+      "website": "http://demo.owasp-juice.shop",
+      "source": "https://github.com/bkimminich/juice-shop",
+      "description": "Online demo instance of the OWASP Juice Shop",
+      "price": "Free"
+    },
+    {
+      "name": "PentesterLab",
+      "website": "httpq://pentesterlab.com/",
+      "description": "Pentest lab",
+      "price": "Paid"
+    },
+    {
+      "name": "Practical Pentest Labs",
+      "website": "https://practicalpentestlabs.com/",
+      "description": "Pentest lab",
+      "price": "Paid"
+    },
+    {
+      "name": "Pwnable.kr",
+      "website": "http://pwnable.kr/",
+      "description": "Pwn challenges",
+      "price": "Free"
+    },
+    {
+      "name": "pwnable.tw",
+      "website": "https://pwnable.tw/",
+      "description": "Pwn challenges",
+      "price": "Free"
+    },
+    {
+      "name": "PwnerRank",
+      "website": "https://www.pwnerrank.com/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Rankk",
+      "website": "http://www.rankk.org/",
+      "description": "Programming, cryptography challenges",
+      "price": "Free"
+    },
+    {
+      "name": "RedTigers Hackit",
+      "website": "https://redtiger.labs.overthewire.org/",
+      "description": "PHP / SQL challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Reversing.Kr",
+      "website": "http://reversing.kr/",
+      "description": "Cracking and Reverse Code Engineering challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Revolution Elite",
+      "website": "https://sabrefilms.co.uk/revolutionelite",
+      "description": "Math and programming challenges",
+      "price": "Free"
+    },
+    {
+      "name": "Ringzer0Team",
+      "website": "https://ringzer0team.com/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Root-me",
+      "website": "https://www.root-me.org",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "RoseCode",
+      "website": "http://www.javaist.com/rosecode",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Security Traps",
+      "website": "http://www.securitytraps.pl/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "SmashTheStack",
+      "website": "http://smashthestack.org/",
+      "description": "Mostly binary challenges",
+      "price": "Free"
+    },
+    {
+      "name": "Solve Me",
+      "website": "http://solveme.kr/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "SPOJ",
+      "website": "http://www.spoj.com/",
+      "description": "Programming challenges",
+      "price": "Free"
+    },
+    {
+      "name": "Stereotyped Challenges",
+      "website": "https://chall.stypr.com/",
+      "description": "Web challenges",
+      "price": "Free"
+    },
+    {
+      "name": "Tasteless",
+      "website": "http://chall.tasteless.eu/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "TheBlackSheep",
+      "website": "http://www.bright-shadows.net/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "ThisisLegal.com",
+      "website": "http://www.thisislegal.com/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "TryHackMe",
+      "website": "https://tryhackme.com/",
+      "description": "Challenge platform with deployable machines; there are also tutorials and courses",
+      "price": "Free"
+    },
+    {
+      "name": "TryThis0ne",
+      "website": "http://www.trythis0ne.com/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Valhalla",
+      "website": "https://halls-of-valhalla.org/",
+      "description": "Challenge platform and community",
+      "price": "Free"
+    },
+    {
+      "name": "Virtual Hacking Labs",
+      "website": "https://www.virtualhackinglabs.com/",
+      "description": "Virtual penetration testing environment with courses and VMs",
+      "price": "Paid"
+    },
+    {
+      "name": "VulnHub",
+      "website": "https://www.vulnhub.com/",
+      "description": "VM-based challenges",
+      "price": "Free"
+    },
+    {
+      "name": "WebHacking",
+      "website": "http://webhacking.kr/",
+      "description": "Web challenges",
+      "price": "Free"
+    },
+    {
+      "name": "W3Challs",
+      "website": "https://w3challs.com/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "WeChall",
+      "website": "https://www.wechall.net/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "wixxerd",
+      "website": "http://www.wixxerd.com/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "WTHack",
+      "website": "https://www.onlinectf.com/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "yoire",
+      "website": "http://yoire.com",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "Zenk-security",
+      "website": "https://www.zenk-security.com/",
+      "description": "Challenge platform and community",
+      "price": "Free"
+    },
+    {
+      "name": "ZSIS CTF",
+      "website": "https://ctf.zsis.hr/",
+      "description": "Challenge platform",
+      "price": "Free"
+    },
+    {
+      "name": "µContest",
+      "website": "http://www.microcontest.com/",
+      "description": "Programming challenges",
+      "price": "Free"
+    }
+  ]
+}

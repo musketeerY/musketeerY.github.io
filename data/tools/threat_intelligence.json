@@ -1,0 +1,52 @@
+{
+  "tools": [
+    {
+      "name": "Maltego",
+      "website": "https://www.paterva.com/web7/buy/maltego-clients/maltego-ce.php",
+      "description": "Interactive data mining tool that renders directed graphs for link analysis. The tool is used in online investigations for finding relationships between pieces of information from various sources located on the Internet (exists in Community Edition)",
+      "price": "Paid",
+      "online": "False"
+    },
+    {
+      "name": "MISP",
+      "website": "https://www.misp-project.org/",
+      "source": "https://github.com/MISP/MISP",
+      "description": "Threat intelligence platform & open standards for threat information sharing (formerly known as Malware Information Sharing Platform)",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Netglub",
+      "website": "https://www.netglub.org/",
+      "source": "http://redmine.lab.diateam.net/attachments/download/1/netglub-1.0.tar.gz",
+      "description": "Maltego alternative",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PatrowlHears",
+      "website": "https://patrowl.io/products/hears",
+      "source": "https://github.com/Patrowl/PatrowlHears",
+      "description": "Provides a unified source of vulnerability, exploit and threat Intelligence feeds; comprehensive and continuously updated vulnerability database scored and enriched with exploit and threat news information",
+      "language": "Python",
+      "price": "Paid"
+    },
+    {
+      "name": "threatfeeds.io",
+      "website": "https://threatfeeds.io/",
+      "description": "Open-source threat intelligence feeds; sharing malware URLs, IP reputation, bad IPs, etc.",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "Yeti",
+      "website": "https://yeti-platform.github.io/",
+      "source": "https://github.com/yeti-platform/yeti",
+      "description": "Organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

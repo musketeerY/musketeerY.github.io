@@ -1,0 +1,85 @@
+{
+  "ctf_platforms": [
+    {
+      "name": "Cardinal",
+      "website": "https://cardinal.ink/",
+      "source": "https://github.com/vidar-team/Cardinal",
+      "description": "Attack-defence CTF platform",
+      "language": "Go",
+      "price": "Free"
+    },
+    {
+      "name": "ctf01d",
+      "source": "https://github.com/sea-kg/ctf01d",
+      "description": "Attack-defence CTF platform",
+      "language": "Python",
+      "price": "Free"
+    },
+    {
+      "name": "FAUST CTF Gameserver",
+      "website": "https://ctf-gameserver.org/",
+      "source": "https://github.com/fausecteam/ctf-gameserver",
+      "description": "Attack-defence CTF framework",
+      "language": "Python",
+      "price": "Free"
+    },
+    {
+      "name": "ForcAD",
+      "source": "https://github.com/pomo-mondreganto/ForcAD",
+      "description": "Attack-defence CTF framework",
+      "language": "Python",
+      "price": "Free"
+    },
+    {
+      "name": "iCTF Framework",
+      "website": "https://ictf.cs.ucsb.edu/",
+      "source": "https://github.com/shellphish/ictf-framework",
+      "description": "Attack-defence CTF framework",
+      "language": "Python",
+      "price": "Free"
+    },
+    {
+      "name": "InCTF Framework",
+      "source": "https://github.com/inctf/inctf-framework",
+      "description": "Attack-defence CTF framework",
+      "language": "Python",
+      "price": "Free"
+    },
+    {
+      "name": "jury-attack-defense",
+      "source": "https://github.com/hackforces/jury-attack-defense",
+      "description": "Attack-defence CTF framework",
+      "language": "Python",
+      "price": "Free"
+    },
+    {
+      "name": "OCCP",
+      "website": "https://opencyberchallenge.net/",
+      "source": "https://github.com/OpenCyberChallengePlatform/OccpGameserver",
+      "description": "Attack-defence training platform for Network Defense, Penetration Testing, Digital Forensics, Secure Programming, Incident Response, Malware Analysis scenarios; supports Virtual Scenario Network, Gray Team, Red Team, Blue Team, White Team; game server and administrative VM; including a scenario package",
+      "language": "Ruby",
+      "price": "Free"
+    },
+    {
+      "name": "RuCTFe checksystem",
+      "source": "https://github.com/HackerDom/checksystem",
+      "description": "Checksystem for attack-defence CTF",
+      "language": "Perl",
+      "price": "Free"
+    },
+    {
+      "name": "SibirCTF Attack-Defense System",
+      "source": "https://github.com/KevaTeam/ctf-attack-defense",
+      "description": "Attack-defence CTF framework",
+      "language": "Python",
+      "price": "Free"
+    },
+    {
+      "name": "tin_foil_hat",
+      "source": "https://github.com/jollheef/tin_foil_hat",
+      "description": "Attack-defence CTF platform",
+      "language": "Go",
+      "price": "Free"
+    }
+  ]
+}

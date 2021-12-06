@@ -1,0 +1,109 @@
+{
+  "tools": [
+    {
+      "name": "Cipher Suite Info",
+      "website": "https://ciphersuite.info/",
+      "source": "https://github.com/hcrudolph/ciphersuite.info",
+      "description": "A searchable directory of TLS ciphersuites and related security details",
+      "language": "Python",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "crypto-identifier",
+      "source": "https://github.com/Acceis/crypto_identifier",
+      "description": "Tool that try to identify what cipher is used and uncipher the data",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Crypton",
+      "source": "https://github.com/ashutosh1206/Crypton",
+      "description": "Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Hashing Algorithms along with example challenges from CTFs",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Dcode",
+      "website": "http://www.dcode.fr/tools-list",
+      "description": "Code and decode all kind of checksums, algorithms, codes or ciphers",
+      "price": "Free",
+      "online": "True"
+    },
+    {
+      "name": "FeatherDuster",
+      "source": "https://github.com/nccgroup/featherduster",
+      "description": "Cryptanalysis tool and library",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Haiti",
+      "website": "https://noraj.github.io/haiti/",
+      "source": "https://github.com/noraj/haiti",
+      "description": "A CLI tool to identify the hash type of a given hash",
+      "language": "Ruby",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "haiti"
+    },
+    {
+      "name": "hashID",
+      "source": "https://github.com/psypanda/hashID",
+      "description": "Identify the different types of hashes",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "JWT-Key-Recovery",
+      "source": "https://github.com/FlorianPicca/JWT-Key-Recovery",
+      "description": "Recover the public key used to sign JWT tokens",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PkCrack",
+      "website": "https://www.unix-ag.uni-kl.de/%7Econrad/krypto/pkcrack.html",
+      "description": "Tool for breaking PkZip encryption",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RsaCtfTool",
+      "source": "https://github.com/Ganapati/RsaCtfTool",
+      "description": "Tool to conduct manual or automated attack on RSA",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RSATool",
+      "source": "https://github.com/ius/rsatool",
+      "description": "Tool to calculate RSA parameters",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "RSHack",
+      "source": "https://github.com/zweisamkeit/RSHack",
+      "description": "RSA attack and key manipulation tool",
+      "language": "",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "XORTool",
+      "source": "https://github.com/hellman/xortool",
+      "description": "Tool to analyze multi-byte xor cipher",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

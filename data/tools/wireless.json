@@ -1,0 +1,154 @@
+{
+  "tools": [
+    {
+      "name": "Aircrack-Ng",
+      "website": "http://www.aircrack-ng.org/",
+      "source": "https://github.com/aircrack-ng/aircrack-ng",
+      "description": "Suite of tools to assess WiFi network security (cracking WEP and WPA PSK)",
+      "language": "C",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "aircrack-ng"
+    },
+    {
+      "name": "airgeddon",
+      "source": "https://github.com/v1s1t0r1sh3r3/airgeddon",
+      "description": "Wireless network audit script",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "airgeddon"
+    },
+    {
+      "name": "BtleJack",
+      "source": "https://github.com/virtualabs/btlejack",
+      "description": "Bluetooth Low Energy Swiss-army knife",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "btlejack"
+    },
+    {
+      "name": "Crunch-Cracker",
+      "source": "https://github.com/KURO-CODE/Crunch-Cracker",
+      "description": "Wordlist generator and Wi-Fi cracker",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Fluxion",
+      "website": "https://fluxionnetwork.github.io/fluxion/",
+      "source": "https://github.com/FluxionNetwork/fluxion",
+      "description": "MITM WPA attack tool",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "fluxion"
+    },
+    {
+      "name": "FruityWiFi",
+      "source": "https://github.com/xtr4nge/FruityWifi",
+      "description": "Wireless network auditing tool controlled by a web interface",
+      "language": "PHP",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Hijacker",
+      "source": "https://github.com/chrisk44/Hijacker",
+      "description": "Android GUI for Aircrack, Airodump, Aireplay, MDK3 and Reaver",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Infernal-Wireless",
+      "source": "https://github.com/entropy1337/infernal-twin",
+      "description": "Automated wireless hacking tool ",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "MDK3-master",
+      "source": "https://github.com/wi-fi-analyzer/mdk3-master",
+      "description": "PoC tool to exploit common IEEE 802.11 protocol weaknesses",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "MDK4",
+      "source": "https://github.com/aircrack-ng/mdk4",
+      "description": "PoC tool to exploit common IEEE 802.11 protocol weaknesses",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Modmobjam",
+      "source": "https://github.com/Synacktiv/Modmobjam",
+      "description": "Cellular networks jamming PoC for mobile equipments",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Modmobmap",
+      "source": "https://github.com/Synacktiv/Modmobmap",
+      "description": "Tool to retrieve information of cellular networks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "reaver-wps",
+      "source": "https://code.google.com/archive/p/reaver-wps/",
+      "description": "Bruteforce WPS tool",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "reaver-wps (t6x fork)",
+      "source": "https://github.com/t6x/reaver-wps-fork-t6x",
+      "description": "Bruteforce WPS tool",
+      "language": "C",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "trackerjacker",
+      "source": "https://github.com/calebmadrigal/trackerjacker",
+      "description": "Tool for mapping and tacking wifi networks and devices through raw 802.11 monitoring",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Wifi-Biter",
+      "source": "https://github.com/IxAmxZer0/Wifi-Biter",
+      "description": "Dictionary generator used to generate dictionaries/wordlist for Wireless Router Passwords",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "wifijammer",
+      "source": "https://github.com/DanMcInerney/wifijammer",
+      "description": "Script to jam wifi clients and access points",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "wifite2",
+      "source": "https://github.com/kimocoder/wifite2",
+      "description": "Script for auditing wireless networks that runs existing wireless-auditing tools",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

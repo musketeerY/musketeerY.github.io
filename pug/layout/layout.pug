@@ -1,0 +1,36 @@
+doctype html
+html(lang='en')
+    head
+        include ../partials/head.pug
+    body
+        //- Scripts
+        include ../partials/scripts.pug
+        block optional-script-top
+            //- No script by default
+
+        //- Hero
+        section.hero.is-medium.is-dark
+            // Hero header: will stick at the top
+            include ../partials/hero_head.pug
+            // Hero content: will be in the middle
+            include ../partials/hero_body.pug
+            // Hero footer: will stick at the bottom
+            block hero-foot
+                include ../partials/hero_foot.pug
+
+        //- Content
+        block content
+            section.section
+                .container
+                    h2.title.is-2 No content
+
+        block optional-script-bottom
+            //- No script by default
+
+        //- Footer
+        include ../partials/footer.pug
+
+        //- Back to top button
+        button.button.is-medium.is-dark#backToTop(onclick="topFunction()" title="Go to top")
+            span.icon
+                i.fa.fa-rocket

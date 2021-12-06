@@ -1,0 +1,252 @@
+{
+  "tools": [
+    {
+      "name": "AntiScan.Me",
+      "website": "https://antiscan.me/",
+      "description": "Multi-AV checker that doesn't distribute the check results, based on Dyncheck.com",
+      "price": "Paid",
+      "online": "True",
+      "keywords": "anti-virus"
+    },
+    {
+      "name": "AVET",
+      "source": "https://github.com/govolution/avet",
+      "description": "AntiVirus Evasion Tool; targeting windows machines with executable files",
+      "price": "Free",
+      "online": "False",
+      "keywords": "anti-virus"
+    },
+    {
+      "name": "fireELF",
+      "source": "https://github.com/rek7/fireELF",
+      "description": "Fileless linux malware framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Gophish",
+      "website": "https://getgophish.com/",
+      "source": "https://github.com/gophish/gophish",
+      "description": "Phishing toolkit providing the ability to setup and execute phishing engagements and security awareness training",
+      "language": "Go",
+      "price": "Free",
+      "online": "True",
+      "blackarch": "gophish"
+    },
+    {
+      "name": "Kage",
+      "source": "https://github.com/WayzDev/Kage",
+      "description": "Graphical user interface for Metasploit Meterpreter and session handler",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "King Phisher",
+      "source": "https://github.com/rsmusllp/king-phisher",
+      "description": "A tool for testing and promoting user awareness by simulating real world phishing attacks",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Kubesploit",
+      "source": "https://github.com/cyberark/kubesploit",
+      "description": "Post-exploitation HTTP/2 Command & Control server and agent focused on containerized environments",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "lateralus",
+      "source": "https://github.com/lateralusd/lateralus",
+      "description": "Terminal based phishing campaign tool",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "link",
+      "source": "https://github.com/postrequest/link",
+      "description": "Command and control framework; HTTPS communication, process injection, in-memory .NET assembly execution, SharpCollection tools, sRDI implementation for shellcode generation, Windows link reloads DLLs from disk into current process",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "LP-DB",
+      "website": "https://lp-db.github.io/lp-db/",
+      "source": "https://github.com/lp-db/lp-db",
+      "description": "Login Pages Database forms a knowledge base on login pages related to malicious activities (C2 panels, phishing kits...)",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "macro_pack",
+      "source": "https://github.com/sevagas/macro_pack",
+      "description": "Obfuscation and generation of retro formats such as MS Office documents or VBS like format",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "antimalware, bypass, shortcut"
+    },
+    {
+      "name": "Merlin",
+      "source": "https://github.com/Ne0nd0g/merlin",
+      "description": "Post-exploitation HTTP/2 Command & Control server and agent",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2",
+      "blackarch": "merlin-server"
+    },
+    {
+      "name": "Mística",
+      "source": "https://github.com/IncideDigital/Mistica",
+      "description": "Allows to embed data into application layer protocol fields, with the goal of establishing a bi-directional channel for arbitrary communications; supports encapsulation into HTTP, HTTPS, DNS and ICMP protocols",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Mythic",
+      "source": "https://github.com/its-a-feature/Mythic",
+      "description": "Collaborative red teaming framework",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Octopus",
+      "source": "https://github.com/mhaskar/Octopus",
+      "description": "Pre-operation C2 server",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "keywords": "C&C, C2"
+    },
+    {
+      "name": "Overlord",
+      "website": "https://blog.qsecure.com.cy/posts/overlord/",
+      "source": "https://github.com/qsecure-labs/overlord",
+      "description": "CLI used to build Red Teaming infrastructure in an automated way, supports AWS and Digital Ocean",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PEzor",
+      "website": "https://iwantmore.pizza/posts/PEzor.html",
+      "source": "https://github.com/phra/PEzor",
+      "description": "Shellcode & PE Packer",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Pupy",
+      "source": "https://github.com/n1nj4sec/pupy",
+      "description": "Cross-platform, multi function remote access tool (RAT) and post-exploitation tool; fileless/all-in-memory execution, low footprint, multi-transport",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Quasar",
+      "source": "https://github.com/quasar/Quasar",
+      "description": "Remote Administration Tool (RAT) for Windows",
+      "language": "CSharp",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Redcloud",
+      "source": "https://github.com/khast3x/Redcloud",
+      "description": "Automated Red Team Infrastructure deployment using Docker",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ReelPhish",
+      "source": "https://github.com/mandiant/ReelPhish",
+      "description": "Real time phishing tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Ruler",
+      "source": "https://github.com/sensepost/ruler",
+      "description": "Interact with Exchange servers remotely, through either the MAPI/HTTP or RPC/HTTP to abuse the client-side Outlook features and gain a shell",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "ScareCrow",
+      "source": "https://github.com/optiv/ScareCrow",
+      "description": "Payload creation framework designed around EDR bypass",
+      "language": "Go",
+      "price": "Free",
+      "online": "False",
+      "keywords": "DLL"
+    },
+    {
+      "name": "SearchSploit",
+      "website": "https://www.exploit-db.com/",
+      "source": "https://github.com/offensive-security/exploitdb",
+      "description": "CLI tool to search among Exploit-DB exploits",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SHAD0W",
+      "website": "https://blog.dylan.codes/shad0w/",
+      "source": "https://github.com/bats3c/shad0w",
+      "description": "Modular C2 framework designed to successfully operate covertly on heavily monitored environments",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sliver",
+      "source": "https://github.com/BishopFox/sliver",
+      "description": "Cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS; remote access tool (RAT)",
+      "language": "Go",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SocialFish",
+      "source": "https://github.com/UndeadSec/SocialFish",
+      "description": "Phishing targeting social media logins; supports Ngrok tunneling and a mobile controller",
+      "language": "Python",
+      "price": "Free",
+      "online": "False",
+      "blackarch": "socialfish"
+    },
+    {
+      "name": "UBoat",
+      "source": "https://github.com/Souhardya/UBoat",
+      "description": "HTTP botnet PoC",
+      "language": "CPlusPlus",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Zphisher",
+      "source": "https://github.com/htr-tech/zphisher",
+      "description": "Automated phishing tool with multiple tunneling options; fork of Shellphish",
+      "language": "Shell",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tools": [
+    {
+      "name": "Adhrit",
+      "website": "https://www.hawkspawn.com/Adhrit/",
+      "source": "https://github.com/abhi-r3v0/Adhrit",
+      "description": "Android APK reversing and analysis suite",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "AndroBugs Framework",
+      "source": "https://github.com/AndroBugs/AndroBugs_Framework",
+      "description": "Android APK vulnerability analyzer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "APKLeaks",
+      "source": "https://github.com/dwisiswant0/apkleaks",
+      "description": "Scanning APK file for URIs, endpoints and secrets",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "MobSF",
+      "website": "",
+      "source": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+      "description": "Android APK vulnerability analyzer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "NodeJsScan",
+      "source": "https://github.com/ajinabraham/NodeJsScan",
+      "description": "Static security code scanner for Node.js applications",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "QARK",
+      "source": "https://github.com/linkedin/qark",
+      "description": "Android APK vulnerability analyzer",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SonarQube",
+      "website": "http://www.sonarqube.org/",
+      "source": "https://github.com/SonarSource/sonarqube",
+      "description": "Automatic code review tool to detect bugs, vulnerabilities; continuous code inspection automated with static code analysis rules",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "StaCoAn",
+      "source": "https://github.com/vincentcox/StaCoAn",
+      "description": "Mobile applications static code analysis tool",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "SUPER",
+      "website": "http://superanalyzer.rocks/",
+      "source": "https://github.com/SUPERAndroidAnalyzer/super",
+      "description": "Android APK vulnerability analyzer",
+      "language": "Rust",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "wpBullet",
+      "source": "https://github.com/webarx-security/wpbullet",
+      "description": "Static code analysis for WordPress Plugins and Themes (and PHP)",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

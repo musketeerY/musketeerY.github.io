@@ -1,0 +1,112 @@
+{
+  "tools": [
+    {
+      "name": "AWS Extender",
+      "tool": "Burp Suite",
+      "source": "https://github.com/VirtueSecurity/aws-extender",
+      "description": "Identify and test S3 buckets, Google Storage buckets and Azure Storage containers for common misconfiguration",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "BurpBounty",
+      "tool": "Burp Suite",
+      "source": "https://github.com/wagiro/BurpBounty",
+      "description": "Scan Check Builder in BApp Store, improve the active and passive scanner by means of personalized rules through a graphical interface",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "HopLa",
+      "tool": "Burp Suite",
+      "source": "https://github.com/synacktiv/HopLa",
+      "description": "Adds autocompletion support and useful payloads in Burp Suite",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "http-screenshot-html",
+      "tool": "Nmap",
+      "source": "https://github.com/afxdub/http-screenshot-html",
+      "description": "Nmap NSE script that scans for http server, takes a screenshot of them, and organizes the results into an HTML report",
+      "language": "Lua",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Hyperpwn",
+      "tool": "Hyper",
+      "source": "https://github.com/bet4it/hyperpwn",
+      "description": "Improve the display when debugging with GDB, needs GEF, pwndbg or peda to be loaded in GDB as a backend",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "GEF",
+      "tool": "GDB",
+      "source": "https://github.com/hugsy/gef",
+      "description": "GDB Enhanced Features, multi-architecture",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Mona",
+      "tool": "Immunity Debugger",
+      "source": "https://github.com/corelan/mona",
+      "description": "Set of commands for Immunity Debugger",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "PEDA",
+      "tool": "GDB",
+      "source": "https://github.com/longld/peda",
+      "description": "Python Exploit Development Assistance, (only python2.7)",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Pwndbg",
+      "tool": "GDB",
+      "source": "https://github.com/pwndbg/pwndbg",
+      "description": "Enhance GDB, for exploit development and reverse engineering",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Sploitego",
+      "tool": "Maltego",
+      "source": "https://github.com/allfro/sploitego",
+      "description": "Maltego penetration testing Transforms",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "Stepper",
+      "tool": "Burp Suite",
+      "source": "https://github.com/CoreyD97/Stepper",
+      "description": "Evolution of Burp Suite's Repeater tool, providing the ability to create sequences of steps and define regular expressions to extract values from responses",
+      "language": "Java",
+      "price": "Free",
+      "online": "False"
+    },
+    {
+      "name": "XSSor",
+      "tool": "Burp Suite",
+      "source": "https://github.com/Quitten/XSSor",
+      "description": "semi-automatic reflected and persistent XSS scanner",
+      "language": "Python",
+      "price": "Free",
+      "online": "False"
+    }
+  ]
+}

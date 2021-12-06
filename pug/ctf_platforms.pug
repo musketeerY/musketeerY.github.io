@@ -1,0 +1,55 @@
+extend layout/layout.pug
+
+block content
+    section.section
+        .container
+            .content
+                // Table Of Contents
+                include content/table_of_contents/ctf_platforms.pug
+
+                h2.title.is-2#title-ctf-platforms CTF platforms
+
+                h3.title.is-3#title-ctf-platforms-attack-defense Attack-Defense
+                article
+                    include content/ctf_platforms/attack_defense.pug
+                    script(src='js/tablefilter/ctf_platforms/attack_defense.js')
+
+                h3.title.is-3#title-ctf-platforms-hybrid Hybrid
+                article
+                    include content/ctf_platforms/hybrid.pug
+                    script(src='js/tablefilter/ctf_platforms/hybrid.js')
+
+                h3.title.is-3#title-ctf-platforms-jeopardy Jeopardy
+                article
+                    include content/ctf_platforms/jeopardy.pug
+                    script(src='js/tablefilter/ctf_platforms/jeopardy.js')
+
+block hero-foot
+    .hero-foot
+        nav.tabs.is-boxed.is-fullwidth
+            .container
+                ul
+                    li
+                        a(href='index.html') Overview
+                    li
+                        a(href='tools.html') Tools
+                    li
+                        a(href='resources.html') Resources
+                    li.is-active
+                        a(href='ctf_platforms.html') CTF platforms
+                    li
+                        a(href='operating_systems.html') Operating Systems
+
+block optional-script-top
+    // TableFilter lib
+    script(src='js/vendor/tablefilter/tablefilter.js')
+    // TableFilter base config for all tables
+    script(src='js/tablefilter/base_config.js')
+
+block optional-script-bottom
+    // SweetAlert2 lib
+    script(src='js/vendor/sweetalert2/sweetalert2.all.min.js')
+    // SweetAlert2 script
+    script(src='js/sweetalert2.js')
+    // Apply font-mfizz class to elements when available (need to be loaded after the content)
+    script(src='js/auto-font-mfizz.js')
