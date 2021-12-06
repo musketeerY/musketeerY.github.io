@@ -12,7 +12,7 @@ let CRYPTOCOMPARE_URI = "https://www.cryptocompare.com";
 
 // The API we're using for grabbing cryptocurrency prices.  The service can be
 // found at: https://coinmarketcap.com/api/
-let COINMARKETCAP_API_URI = "https://api.coinmarketcap.com";
+let COINMARKETCAP_API_URI = "https://api.coinmarketcap.com/b2c3f58d-7969-4b3b-8357-56a1180d2053";
 
 // The amount of milliseconds (ms) after which we should update our currency
 // charts.
